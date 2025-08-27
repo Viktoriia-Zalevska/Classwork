@@ -94,3 +94,53 @@ a {
 }
 
 /* ----------TEASTE------------ */
+.taste {
+  font-family: "Montserrat", sans-serif;
+font-weight: 600;
+font-size: 24px;
+
+/* line-height: 28px; */ 
+line-height: 117%;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+text-align: center;
+color: #111;
+}
+.span-taste {
+  color:  #fd9222;
+} 
+.taste-text {
+  font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 14px;
+
+/* line-height: 18px; */ 
+line-height: 129%;
+letter-spacing: -0.02em;
+text-align: center;
+color: #000;
+}
+.taste-img {
+  width: 206px;
+  height: 160px;
+
+}
+.teaste-title {
+  font-family: "Montserrat", sans-serif;
+font-weight: 600;
+font-size: 18px;
+
+/* line-height: 24px; */ 
+line-height: 133%;
+color: #111;
+}
+.teaste-text {
+  font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 14px;
+
+/* line-height: 18px; */ 
+line-height: 129%;
+letter-spacing: -0.02em;
+color: #111;
+}
